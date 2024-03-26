@@ -1,10 +1,5 @@
 ---
-acl:
-  definitions: []
-  interfaces:
-    GigabitEthernet2:
-      acl: BLOCK_TRANSIT_LINKS
-      direction: in
+
 bgp:
   asn: 65251
   log-neighbor-changes: true

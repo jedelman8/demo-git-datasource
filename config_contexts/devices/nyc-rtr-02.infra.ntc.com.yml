@@ -1,3 +1,4 @@
+---
 bgp:
   asn: 65252
   neighbors:
