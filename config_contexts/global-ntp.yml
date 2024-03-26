@@ -1,0 +1,11 @@
+---
+_metadata:
+  name: global-snmp
+  weight: 2000
+  description: Global SNMP Definitions.
+  is_active: true
+ntp:
+- ip: 10.1.1.1
+  prefer: false
+- ip: 10.2.2.2
+  prefer: true
