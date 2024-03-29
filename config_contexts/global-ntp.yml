@@ -1,8 +1,8 @@
 ---
 _metadata:
-  name: global-snmp
+  name: global-ntp
   weight: 2000
-  description: Global SNMP Definitions.
+  description: Global NTP Definitions.
   is_active: true
 ntp:
 - ip: 10.1.1.1
